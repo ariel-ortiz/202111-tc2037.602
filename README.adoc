@@ -1,0 +1,23 @@
+= Tc2037.602 Implementación de métodos computacionales
+
+_Tecnológico de Monterrey, Estado de México._
+
+Este proyecto contiene todos los archivos fuente que el profesor irá generando en clase durante el semestre febrero-junio de 2021.
+
+Los archivos se pueden consultar directamente en este mismo sitio, o se puede usar `git` para obtener una copia local de estos. En este último caso se deben seguir los siguiente pasos:
+
+1. http://git-scm.com/downloads[Instalar git] en tu computadora.
+
+2. Clonar este repositorio. Desde la terminal, teclear:
+    
+    git clone https://github.com/ariel-ortiz/202111-tc2037.602.git tc2037
+    
+3. Cambiarse al directorio `tc2037`:
+    
+    cd tc2037
++    
+En dicho directorio encontrás todos los archivos fuente del proyecto.
+    
+4. Cada vez que el profesor realice modificaciones a archivos existentes o agregue archivos nuevos, será necesario hacer un *pull* al repositorio. En la terminal y desde el directorio `tc2037` teclear: 
+    
+    git pull
